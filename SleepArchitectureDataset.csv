@@ -1,0 +1,56 @@
+﻿Variable,Label,Mean,Std Dev,Median,Min,Max
+hremt1p,Number of shift (sleep stages shift) from REM sleep to stage 1 sleep per hour of sleep from type II polysomnography,0,0,0,0,3
+hremt2p,Number of shift (sleep stages shift) from REM sleep to stage 2 sleep per hour of sleep from type II polysomnography,0,0,0,0,2
+hremt34p,Number of shift (sleep stages shift) from REM sleep to stage 3/4 sleep per hour of sleep from type II polysomnography,0,0,0,0,1
+hslptawp,Number of shift (sleep stages shift) from sleep to awake per hour of sleep from type II polysomnography,4,2,4,0.4,21
+hstg2t1p,Number of shift (sleep stages shift) from stage 2 to stage 1 sleep per hour of sleep from type II polysomnography,0,0,0,0,1
+hstg342p,Number of shift (sleep stages shift) from stage 3/4 to stage 1/2 sleep per hour of sleep from type II polysomnography,3,2,3,0,16
+nremepbp,Total duration of sleep in NREM sleep in supine position from type II polysomnography,"5,841","5,989","4,125",0,"25,650"
+nremepop,Total duration of sleep in NREM sleep in non-supine position from type II polysomnography,"11,672","6,185","12,540",0,"25,410"
+nsupinep,Percentage of total sleep duration in non-supine position from type II polysomnography,67,33,77,0,100
+pcstah3d,Percentage of total sleep duration: (Apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and > 3% oxygen desaturation and with or without arousal) from type II polysomnography,6,9,3,0,73
+pcstahar,Percentage of total sleep duration: (Apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and no oxygen desaturation and only with arousal) from type II polysomnography,5,6,4,0,67
+pcstahda,Percentage of total sleep duration: (Apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and > 3% oxygen desaturation or with arousal) from type II polysomnography,9,10,6,0,73
+pctsa70h,Percent total sleep duration with below 70% oxygen saturation from type II polysomnography,0,1,0,0,24
+pctsa75h,Percent total sleep duration with below 75% oxygen saturation from type II polysomnography,0,1,0,0,46
+pctsa80h,Percent total sleep duration with below 80% oxygen saturation from type II polysomnography,0,1,0,0,66
+pctsa85h,Percent total sleep duration with below 85% oxygen saturation from type II polysomnography,0,3,0,0,82
+pctsa90h,Percent total sleep duration with below 90% oxygen saturation from type II polysomnography,3,10,0,0,100
+pctsa95h,Percent total sleep duration with below 95% oxygen saturation from type II polysomnography,43,35,38,0,100
+pctstapn,Percentage of total sleep duration with apneas with no oxygen desaturation threshold used and with or without arousal from type II polysomnography,3,6,1,0,69
+pctsthyp,Percentage of total sleep duration with hypopneas with > 30% flow reduction and with no oxygen desaturation threhold and with or without arousal from type II polysomnography,17,9,15,0.2,61
+pslp_ap0,Percent of sleep time in apneas,3,6,1,0,65
+pslp_ap0hp3,Percent of sleep time in [apneas] and [hypopneas with >= 3% oxygen desaturation],9,10,6,0,69
+pslp_ap0hp3a,Percent of sleep time in [apneas] and [hypopneas with >= 3% oxygen desaturation or with arousal],11,10,8,0,70
+pslp_ap3,Percent of sleep time in apneas with >= 3% oxygen desaturation,2,6,0,0,60
+pslp_ca0,Percent of sleep time in central apneas,0,1,0,0,23
+pslp_hp0,Percent of sleep time in hypopneas,16,9,15,0.2,59
+pslp_hp3,Percent of sleep time in hypopneas with >= 3% oxygen desaturation,7,6,5,0,58
+pslp_hp3a,Percent of sleep time in hypopneas with >= 3% oxygen desaturation or with arousal,8,7,7,0,59
+pslp_oa0,Percent of sleep time in obstructive apneas,3,6,0,0,65
+remepbp,Total duration of sleep in REM sleep in supine position from type II polysomnography,"1,357","1,734",540,0,"9,810"
+remepop,Total duration of sleep in REM sleep in non-supine position from type II polysomnography,"3,069","1,970","3,060",0,"11,460"
+remlaiip,REM Sleep Latency: the interval between the first sleep epoch and REM sleep excluding wake from type II polysomnography,76,43,67,0,375
+remlaip,REM Sleep Latency: the interval between the first sleep epoch and REM sleep including wake from type II polysomnography,89,56,74,0,423
+remt1p,Total number of shift (sleep stages shift) from REM sleep to stage 1 sleep from type II polysomnography,1,2,0,0,22
+remt2p,Total number of shift (sleep stages shift) from REM sleep to stage 2 sleep from type II polysomnography,2,2,2,0,16
+remt34p,Total number of shift (sleep stages shift) from REM sleep to stage 3/4 sleep from type II polysomnography,0,0,0,0,6
+slpeffp,"Sleep Efficiency: the ratio of sleep duration (i.e., total sleep time) to in-bed period (i.e., time in bed) from type II polysomnography",84,10,86,21.2,104
+slplatp,Sleep Latency: the interval between lights-out/in-bed time and sleep onset time from type II polysomnography,14,20,8,0,218
+slpprdp,Total Sleep Duration: the interval between sleep onset and sleep offset while the participant is asleep from type II polysomnography,366,60,372,90.5,519
+slptawp,Total number of shift (sleep stages shift) from sleep to awake from type II polysomnography,28,13,26,3,163
+stg2t1p,Total number of shift (sleep stages shift) from stage 2 to stage 1 sleep from type II polysomnography,0,1,0,0,8
+stg34t2p,Total number of shift (sleep stages shift) from stage 3/4 to stage 1/2 sleep from type II polysomnography,23,14,21,0,140
+stloutp,Clock time when the participant is in bed or lights are out from type II polysomnography,72,68,55,0,481
+stonsetp,Sleep onset time from type II polysomnography,99,78,86,0,614
+supinep,Percentage of total sleep duration in supine position from type II polysomnography,33,33,23,0,100
+timebedp,Total In-bed Period: the interval between lights out/in-bed time and lights off/out-bed time from type II polysomnography,438,56,446,211,543
+timerem,Total duration of REM sleep from type II polysomnography,74,27,74,1,191
+timeremp,Percentage of total sleep duration in REM from type II polysomnography,20,6,20,0.5,43
+times34p,Percentage of total sleep duration in stage 3 and 4 from type II polysomnography,19,11,18,0.1,70
+timest1,Total duration of stage 1 sleep from type II polysomnography,19,13,16,0.5,89
+timest1p,Percentage of total sleep duration in stage 1 from type II polysomnography,5,4,4,0.1,34
+timest2,Total duration of stage 2 sleep from type II polysomnography,205,52,206,31,381
+timest2p,Percentage of total sleep duration in stage 2 from type II polysomnography,56,11,56,10.9,90
+timest34,Total duration of stage 3 and 4 sleep from type II polysomnography,68,43,65,0.5,270
+waso,Wake after Sleep Onset: the total duration between sleep onset and sleep offset time while being awake from type II polysomnography,59,42,48,0,339
